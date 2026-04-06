@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "OTP",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
